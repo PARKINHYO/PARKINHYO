@@ -1,4 +1,4 @@
-### Cloud & Infra Engineer, Devops
+### Python Developer & Infra Engineer, Devops
 
 좋은 프로그래머가 되기 이전에, 먼저 좋은 사람이 되자.
 
